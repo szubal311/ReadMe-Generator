@@ -50,4 +50,13 @@ const dataInput = [
         message: 'Please add contributors',
         name: 'contributors',
       },  
-]
+];
+
+newFile = (fileName, info) => {
+    fs.writeFile("./readMeDemo/"+fileName, info, function(err){
+        if (err) {
+            return console.log(err);
+        }
+        console.log(fileName + "Successfully written!")
+    })
+}
