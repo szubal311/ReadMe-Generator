@@ -16,12 +16,18 @@ function generateMarkdown(data) {
   
   ## Installation 
   ${data.installation}
+
+  ## Usage 
+  ${data.usage}
   
   ## License
   ${data.license}
   
   ## Contributors
   ${data.contributors}
+
+  ## Test
+  ${data.test}
 
   ## Questions
   Contact:

@@ -13,7 +13,10 @@
   Create a markdown file
   
   ## Installation 
-  node and npm
+  node, npm, and inquirer
+
+  ## Usage 
+  undefined
   
   ## License
   n/a
@@ -21,10 +24,13 @@
   ## Contributors
   n/a
 
+  ## Test
+  n/a
+
   ## Questions
   Contact:
 
-  Github:[Spencer]
+  Github:[Spencer Zubal]
   
   Email:[me@test.com]
 
